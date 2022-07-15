@@ -1,0 +1,32 @@
+textarea {
+    min-height: 400px;
+}
+
+.email_read, .email_unread{
+    border-color: #777777;
+    border-style: solid;
+    border-width: 1px;
+    padding: 5px;
+}
+
+.email_read{
+    background-color: #ececec;
+}
+
+.timestamp {
+    float: right;
+    text-align: right;
+    color: #8b8a8a;
+}
+
+ul {
+    padding-left: 0px;
+}
+
+#buttons button {
+    margin-right: 5px;
+}
+
+#body {
+    color: blue;
+}
